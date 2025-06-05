@@ -1,3 +1,5 @@
-### Hi there, I'm Kasey 👋
+SWE @ Microsoft
 
-Check out my [website](https://kasey-mcfadden.github.io/) to learn more about me and my work. Feel free to reach out to me at kaseysmcfadden(at)gmail(dot)com.
+[kaseym.dev](https://kaseym.dev/) 
+
+kaseysmcfadden(at)gmail(dot)com
